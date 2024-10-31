@@ -7,7 +7,7 @@ export default function App() {
     <body>
         <div className="grid md:grid-cols-12 font-nunito">
 
-          <div className="md:col-span-4 md:flex md:justify-end">
+          <div className="col-span-4 md:flex md:justify-end">
             <nav className="md:text-right">
               <div className="text-md uppercase text-gray-500 font-bold font-nunito tracking-wide mt-5 md:mr-5 md:mb-10 ml-5">
                 <h1>
