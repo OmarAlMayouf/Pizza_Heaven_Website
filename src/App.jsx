@@ -72,7 +72,7 @@ export default function App() {
                     </h4>
                   </div>
                   <div className="m-4">
-                    <span className="font-bold text-lg">Peperonie pizza</span>
+                    <span className="font-bold text-lg">Pepperoni pizza</span>
                     <span className="block text-gray-500 text-sm font-light">Recipe by Omar</span>
                   </div>
                 </div>
