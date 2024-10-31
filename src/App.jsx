@@ -63,7 +63,7 @@ export default function App() {
                 </h4>
               <div className="mt-16 grid lg:grid-cols-3 gap-10">
                 {/*Cards go here*/}
-                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer">
+                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer transform ease-in-out duration-150">
                   <img className="w-full h-48 sm:h-60 object-cover" src={pizza} alt="pizza" />
                   <div className="absolute top-3 left-3">   
                     <h4 className=" text-xs font-extrabold text-stone-500 pt-2 bg-stone-200 rounded-full px-4 py-2">
@@ -78,7 +78,7 @@ export default function App() {
                 </div>
 
 
-                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer">
+                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer transform ease-in-out duration-150">
                   <img className="w-full h-48 sm:h-60 object-cover" src={pizza2} alt="pizza" />
                   <div className="absolute top-3 left-3">   
                     <h4 className=" text-xs font-extrabold text-stone-500 pt-2 bg-stone-200 rounded-full px-4 py-2">
@@ -93,7 +93,7 @@ export default function App() {
                 </div>
 
 
-                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer">
+                <div className="relative bg-white shadow-md rounded hover:shadow-lg overflow-hidden hover:scale-105 cursor-pointer transform ease-in-out duration-150">
                   <img className="w-full h-48 sm:h-60 object-cover" src={pizza3} alt="pizza" />
                   <div className="absolute top-3 left-3">   
                     <h4 className=" text-xs font-extrabold text-stone-500 pt-2 bg-stone-200 rounded-full px-4 py-2">
